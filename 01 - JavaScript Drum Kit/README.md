@@ -23,7 +23,7 @@ const key = document.querySelector(`div[data-key="${e.keyCode}"]`);
 key.classList.add('playing');
 ```
 
-###　3. css-style remove
+### 3. css-style remove
 ```
 function removeTransition(e){
   if(e.propertyName != 'transform') return;
