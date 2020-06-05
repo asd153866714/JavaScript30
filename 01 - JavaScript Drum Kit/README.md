@@ -1,6 +1,6 @@
 # Day-1
 
-1. keydown => playSound
+### 1. keydown => playSound
 ```
 function playSound(e){
   const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
@@ -16,14 +16,14 @@ window.addEventListener('keydown', playSound);
 ```
 
 
-2. keydown => css-style change
+### 2. keydown => css-style change
 
 ```
 const key = document.querySelector(`div[data-key="${e.keyCode}"]`);
 key.classList.add('playing');
 ```
 
-3. css-style remove
+###　3. css-style remove
 ```
 function removeTransition(e){
   if(e.propertyName != 'transform') return;
