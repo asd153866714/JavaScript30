@@ -2,8 +2,8 @@
 
 * `some()`: reutrun true when at least one element in the array pass the test provided by function.
 ```
-const isAdult = people.some((person) => (new Date()).getFullYear() - person.year >= 19)
-console.log(isAdult)
+    const isAdult = people.some((person) => (new Date()).getFullYear() - person.year >= 19)
+    console.log(isAdult)
 ```
 
 * `every()`: return true when all elements in the array pass the test provided by function.
