@@ -1,4 +1,4 @@
-# Day-1
+# 01 - JavaScript Drum Kit
 
 ### 1. keydown => playSound
 ```
