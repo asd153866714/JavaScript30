@@ -1,7 +1,7 @@
 # 07 - Array Cardio Day 2
 
 * `some()`: reutrun true when at least one element in the array pass the test provided by function.
-```bash
+```javascript
     const isAdult = people.some((person) => (new Date()).getFullYear() - person.year >= 19)
     console.log(isAdult)
 ```
