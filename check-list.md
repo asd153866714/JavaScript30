@@ -6,15 +6,15 @@
 - [ ] 06 - Type Ahead
 - [x] 07 - Array Cardio Day 2
 - [ ] 08 - Fun with HTML5 Canvas
-- [ ] 09 - Dev Tools Domination
-- [ ] 10 - Hold Shift and Check Checkboxes
+- [x] 09 - Dev Tools Domination
+- [x] 10 - Hold Shift and Check Checkboxes
 - [ ] 11 - Custom Video Player
-- [ ] 12 - Key Sequence Detection
-- [ ] 13 - Slide in on Scroll
-- [ ] 14 - JavaScript References VS Copying
+- [x] 12 - Key Sequence Detection
+- [x] 13 - Slide in on Scroll
+- [x] 14 - JavaScript References VS Copying
 - [ ] 15 - LocalStorage
 - [ ] 16 - Mouse Move Shadow
-- [ ] 17 - Sort Without Articles
+- [x] 17 - Sort Without Articles
 - [ ] 18 - Adding Up Times with Reduce
 - [ ] 19 - Webcam Fun
 - [ ] 20 - Speech Detection
